@@ -1,4 +1,4 @@
-Participantes:
+# Participantes:
 * Pedro De Lucca
 * Pedro Dutra
 * Rafael Costa

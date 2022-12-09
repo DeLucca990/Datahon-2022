@@ -2,6 +2,7 @@
 * Pedro De Lucca
 * Pedro Dutra
 * Rafael Costa
+* Arthur Chagas
 
 # Contextualização:
 O câncer é uma das doenças que mais impactam a
